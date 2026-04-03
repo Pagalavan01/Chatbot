@@ -7,7 +7,12 @@ from openai import OpenAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
-sys.modules["sqlite3"] = pysqlite3
+# Try to fix sqlite3 issue for Chroma
+try:
+    import pysqlite3
+    sys.modules["sqlite3"] = pysqlite3
+except ImportError:
+    pass  # If it fails, we'll try without it
 
 st.set_page_config(page_title="My Personal RAG Chatbot", page_icon="🤖")
 
