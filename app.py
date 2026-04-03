@@ -1,13 +1,13 @@
 import sys
-__import__('pysqlite3')
 import pysqlite3
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import os
 import streamlit as st
 from openai import OpenAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
+
+sys.modules["sqlite3"] = pysqlite3
 
 st.set_page_config(page_title="My Personal RAG Chatbot", page_icon="🤖")
 
