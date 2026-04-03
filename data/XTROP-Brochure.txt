@@ -1,0 +1,158 @@
+ XTROP Research Solutions
+
+Contact Information
+- Location: Medavakkam, Chennai - 100
+- Website: xtropress.com
+- Email: saravanan.p@xtropress.com
+- Phone: 9150165067
+
+---
+
+Tagline
+Let's Research Together!
+
+---
+
+About XTROP
+
+At XTROP Research Solutions, we specialize in RaaS (Research-as-a-Service) and offer cutting-edge training and internship programs that prepare students and early-career professionals to excel in research and innovation.
+
+Guided by AI researchers, healthcare technologists, and industry leaders, you will work on real-world problem statements, datasets, and publications.
+
+---
+Our Services
+
+1. Internship & Research Training Programs
+2. Research-as-a-Service (RaaS)
+3. Industry-Academic Collaborations
+4. AI Solution & Product Development
+
+---
+
+Internship & Research Training Programs
+
+Program Duration: 3 MONTHS
+- Phase 1: Research Training (45 Days)
+- Phase 2: Research Internship (45 Days)
+
+Program Steps
+
+Step 1: Foundation Building – Understanding problem statements & research gaps
+
+Step 2: Dataset Familiarization – We provide curated datasets
+
+Step 3: Hands-On Implementation – You'll be guided through coding & model development
+
+Step 4: Research Article Drafting – Work with mentors to write a complete research paper
+
+Step 5: Submission of Research Article – Submission to relevant Conference or Journal
+
+Research Focus Areas
+- AI / ML / DL / IoMT
+- Healthcare Analytics
+- Sustainable Informatics
+- Legal Informatics
+- Clean Energy and Climate Change
+
+ Objective
+Become an independent researcher by solving new problem statements.
+
+ What You Will Do
+
+Problem Statement: Provided by XTROP
+
+Dataset Identification: You will explore & finalize the dataset
+
+Methodology & Model Design: You will propose the AI/IoT/IoMT methodology
+
+Coding & Experimentation:You will develop & optimize the model with our guidance
+
+Research Article Writing: You will be mentored to complete a research paper ready for publication
+
+ Certification & Career Opportunities
+
+- Certificate of Completion: Recognized by XTROP Research Solutions
+- Industry Collaboration: Outstanding candidates will get opportunities to work on real-world problems with industry technologists, building live projects & publications.
+
+---
+
+ Research-as-a-Service (RaaS)
+
+What is RaaS?
+
+XTROP's flagship offering that enables companies to outsource research problems to a dedicated team of researchers and interns. 
+
+We handle everything from problem formulation to research publication or prototype delivery, allowing your team to focus on business priorities.
+
+Engagement Models
+
+| Model | Description |
+|-------|-------------|
+| Sponsored Research| You define the problem. We research, build, and deliver. |
+| Problem-to-Publication** | Our team takes your real-world challenge to a Scopus/SCI publication stage. |
+| Challenge-Based Research | Assign a time-bound industry challenge. We curate the best researchers to solve it. |
+| Proof-of-Concept (PoC) | We build and test rapid PoC for technical/business validation. |
+| Co-Development | Joint development model with shared responsibilities and outcomes. |
+
+Benefits for Company
+
+| Industry Benefit | What You Gain |
+|------------------|---------------|
+| Cost-Efficient R&D | Access to AI-driven research without building an internal research team |
+| Trained Manpower | Work with trained interns mentored by experts |
+| Intellectual Property | IP ownership, licensing rights, and publication co-authorship |
+| Research Outcomes | Get research articles, whitepapers, reports, codebases, working models, and analytics dashboards |
+
+Confidentiality & Ethical Assurance
+
+Non-Disclosure Agreements (NDAs) will be signed before any knowledge transfer.
+
+We ensure ethical compliance, data privacy, and proper attribution of collaborative outcomes.
+
+Full transparency during execution, milestones, and review checkpoints.
+
+---
+
+Key Achievements
+
+400+ Key Publications
+10+ Citations
+10+ H-Index
+I-10 Index
+
+---
+
+Research Publications & Expertise
+
+Crime Informatics
+
+Naïve Bayes – AdaBoost Ensemble Model for Classifying the Sexual Crime Springer
+BS-SC Model: A Novel Method for Predicting Child Abuse Using Borderline-SMOTE Enabled Stacking Classifier – Tech Science Press
+CSA-Forecaster: Stacked Model for Forecasting Child Sexual Abuse – JISIS XEC-CrimePredictor: A Stacking Ensemble Model for Homicide Trend Prediction – IEEE
+
+ Health Informatics
+
+Prediction of Cardiac Disease Using Supervised Machine Learning Algorithms – IEEE Skin Cancer Prediction Using Machine Learning Algorithms – Springer
+Predicting the Cardiac Diseases Using SelectKBest Method Equipped Light Gradient Boosting Machine – IEEE
+Malnutrition Detection Using Convolutional Neural Network – IEEE
+Prediction of Brain Diseases Using Machine Learning Models: A Survey – Springer
+Predicting the Gestational Period Using Machine Learning Algorithms – Springer
+ Detection of Health Insurance Fraud Using Bayesian Optimized XGBoost – IIETA
+SEP-XTree: An Explainable AI Model for Early Sepsis Detection – IEEE
+Hybrid ARIMA-RF Model for Predicting Monkeypox Cases: A Continent-Wise Time Series Analysis – IEEE
+
+ Sustainable Informatics
+
+- Predicting the Quantity of Municipal Solid Waste Using XGBoost Model – IEEE
+- Forecasting the Emission of Greenhouse Gases from the Waste by Using SARIMA Model – IEEE
+- Forecasting the Municipal Solid Waste Using GSO-XGBoost Model – Tech Science Press
+- MSW-DeepStack: Innovative Municipal Solid Waste Prediction Model for Informed Decision-Making – IJEI
+- MSW-Net: A Hierarchical Stacking Model for Automated Municipal Solid Waste Classification – JAWMA
+- Crop Recommendation by Analysing the Soil Nutrients Using Machine Learning Techniques: A Study – Springer
+- Menstrual Hygiene and Waste Management: The Survey Results – Elsevier
+- Predicting the Post Graduate Admissions Using Classification Techniques – IEEE
+
+---
+ Summary
+
+XTROP Research Solutions is a Chennai-based organization specializing in research training, internship programs, and research-as-a-service offerings. With strong expertise in AI/ML, healthcare informatics, crime informatics, and sustainable informatics, they offer comprehensive programs for students and professionals looking to excel in research and innovation. Their collaborative approach with industry leaders ensures practical, publication-ready research outcomes.

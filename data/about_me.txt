@@ -1,0 +1,45 @@
+Name:N.Pagalavan
+
+Contact:
+Phone: +91 7010579350
+Email: pagalavan0109@gmail.com
+Address: No. 110, main road, rajamal nagar, ayappakkam, chennai-77.
+LinkedIn: www.linkedin.com/in/pagalavan-natarajan
+
+summary:
+Aspiring Machine Learning intern with hands-on experience in model development, and explainable AI. Completed a Machine Learning & Power BI internship at Medyaan (Feb–Jun 2025), contributed to an IEEE-accepted research paper titled “An Interpretable Machine Learning Model for Oral Cancer Survival Rate Prediction,” and am currently developing a second study on Air Quality Index forecasting, and built an n8n automation pipeline that streamlined intern onboarding at XTROP. Looking for an ML internship where I can contribute to real models, sharpen my reasoning around data, and build deployable solutions.
+
+Experience:
+Medyaan - Machine Learning & Power BI Intern (Feb 2025 - Jun 2025)
+XTROP - Research Intern (June 2025 - Present)
+Co-authored an IEEE-accepted paper on “An Interpretable Machine Learning Model for Oral Cancer Survival Rate Prediction”.
+Currently writing a second research paper focused on Air Quality Index (AQI) prediction.
+Built n8n automation for interns' onboarding process, reduced manual steps, accelerated onboarding and reduced manual follow-ups.
+
+Education:
+BSc Computer Science - SRMIST, 2024–2027 (Pursuing 2nd year), CGPA: 9.05
+Higher Secondary - Nazareth, Completed 2024 — 79.5%
+Secondary School - Little Holy Angels, Completed 2022 — 73%
+
+Skills:
+Built Power BI dashboards to visualise key performance metrics and translated them into insights.
+Implemented ML models/data pipelines [Regression, classification].
+Technical: Python, Machine Learning (model building + interpretability), Power BI, n8n (automation), SQL (basic), Java (basic), MS Excel, MS Word.
+Machine Learning: Regression and classification Models, Data Preprocessing, Model Evaluation, and explainable AI.
+Creative & Tools: Adobe Photoshop, Adobe Premiere Pro, Canva.
+
+Self Projects:
+Built my own portfolio website. (https://pagalavan.netlify.app/)
+n8n automation: Built a workflow that automatically sends personalised welcome emails to new members joining the college book community, and additional workflow automations.
+
+CERTIFICATIONS & TRAINING:
+Diploma in Computer Application (DCA), CSC
+Paper Presentation Certificate - IEEE Conference
+2-day IoT Workshop - Senstorent
+AI fluency for students - Anthropic
+Paper Presentation Certificate - National Conference
+
+ACHIEVEMENTS:
+Winner - Logo design competition, SRMIST
+Research paper accepted by IEEE (Paper link: https://ieeexplore.ieee.org/abstract/document/11377510)
+Best Paper Award - National Conference
