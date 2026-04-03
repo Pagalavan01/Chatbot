@@ -1,19 +1,15 @@
 import os
 import streamlit as st
-from dotenv import load_dotenv
 from openai import OpenAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
-# Load environment variables
-load_dotenv()
-
 st.set_page_config(page_title="My Personal RAG Chatbot", page_icon="🤖")
 
 # --- OpenRouter / Qwen Setup ---
-api_key = os.getenv("OPENROUTER_API_KEY")
+api_key = st.secrets.get("OPENROUTER_API_KEY")
 if not api_key:
-    st.error("OPENROUTER_API_KEY not found in .env file.")
+    st.error("OPENROUTER_API_KEY not found in secrets.")
     st.stop()
 
 client = OpenAI(
